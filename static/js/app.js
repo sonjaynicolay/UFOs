@@ -12,6 +12,10 @@ function doubleAddition(c, d) {
     return total;
   }
 
+function handleClick() {
+    let date = d3.select("#datetime").property("value");
+    let filteredData = tableData;
+
 function buildTable(data) {
     // First, clear out any existing data
     tbody.html("");
