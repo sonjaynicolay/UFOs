@@ -1,9 +1,6 @@
-
-
-
 # UFO Sightings
 ### Utilizing JavaScript, HTML, CSS to create an interactive webpage for UFO Sightings 
-
+![nasa](https://user-images.githubusercontent.com/69441332/99883450-2ef53f00-2bed-11eb-9828-2cb024fd16b2.jpg)
 
 ## 1.	Overview of Project: 
 
