@@ -13,6 +13,13 @@ The main purpose of this project is to provide a more in-depth analysis of UFO s
 
 Depending on the information users are looking for they would be able to search by all search fields or one search field for results. Each search result displays a date, location, duration, shape, and brief description of each reported/ recorded UFO sighting. Example: 
 Search by City and State:
+
+
+![UFOs_fl_city](https://user-images.githubusercontent.com/69441332/99883637-5c8eb800-2bee-11eb-94bf-70391f22be0f.png)
+
+
+
+
 Search by State and Shape:
 
 
