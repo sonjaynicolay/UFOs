@@ -20,7 +20,10 @@ Search by State and Shape:
 Search by State Only:
 
 
-## 3.	Summary: In summary the new design is simple. With it being simple those who are really looking for details regarding the sightings are left with surface level knowledge of the occurrences. To improve upon the design here are a few suggestions:
+## 3.	Summary: 
+
+
+In summary the new design is simple. With it being simple those who are really looking for details regarding the sightings are left with surface level knowledge of the occurrences. To improve upon the design here are a few suggestions:
 
 •	Include urls to each sighting that lead to the research, data, possibly a map and images that are associated with each UFO sighting.
 •	Presenting the form and layout in a bit more of an organized fashion, that is more user friendly. 
