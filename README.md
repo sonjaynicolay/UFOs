@@ -27,6 +27,7 @@ Depending on the information users are looking for they would be able to search 
 
 #### Search by State Only: 
 
+
 ![UFOs_fl_all](https://user-images.githubusercontent.com/69441332/99883603-294c2900-2bee-11eb-8730-3df45e6400ca.png)
 
 
